@@ -7,4 +7,5 @@ authors:
 
 ### Commands
 
-* git init: Initialize a new local repositori
+* git init: Initialize a new local repository
+* git checkout: change between branches
