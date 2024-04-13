@@ -1,2 +1,4 @@
-# Git Commands
+## Git Commands
 
+authors: 
+  * Valesofi
